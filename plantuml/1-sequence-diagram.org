@@ -1,0 +1,13 @@
+1. 简单示例
+
+#+BEGIN_SRC plantuml :file images/1.png
+@startuml
+Bob -> Alice : 信息集合
+@enduml
+#+END_SRC
+
+#+RESULTS:
+[[file:images/1.png]]
+
+
+
